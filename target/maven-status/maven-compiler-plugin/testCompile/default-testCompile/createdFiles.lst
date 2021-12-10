@@ -1,0 +1,6 @@
+com\Automation\Test\LoginTest.class
+com\Automation\Test\BaseTest.class
+com\Automation\Generic\Driverutils.class
+com\Automation\Pages\BasePage.class
+com\Automation\Pages\LoginPage.class
+com\Automation\Pages\Adminpage.class
